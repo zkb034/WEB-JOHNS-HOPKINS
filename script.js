@@ -12,16 +12,16 @@
     // or "j", otherwise, the program should say "Good Bye". So, the final output
     // on the console should look like this:
     /*
-    Hello Yaakov
-    Good Bye John
-    Good Bye Jen
-    Good Bye Jason
-    Hello Paul
-    Hello Frank
-    Hello Larry
-    Hello Paula
-    Hello Laura
-    Good Bye Jim
+    Hello Geoff
+    Good Bye Smith
+    Good Bye Mila
+    Good Bye Arnold
+    Hello Becky
+    Hello Franky
+    Hello Louis
+    Hello Mitchles
+    Hello Betsy
+    Good Bye Amen
 
     WARNING!!! WARNING!!!
     The code does NOT currently work! It is YOUR job to make it work
